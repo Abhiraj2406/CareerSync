@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "This is my First Full Stack Project ",
+  "homepage": "https://github.com/Abhiraj2406/CareerSync#readme",
+  "bugs": {
+    "url": "https://github.com/Abhiraj2406/CareerSync/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abhiraj2406/CareerSync.git"
+  },
+  "license": "ISC",
+  "author": "Abhishek Kumar Yadav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2"
+  }
+}
